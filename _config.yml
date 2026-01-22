@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Liste de lecture pour le brevet fédéral IA
+title: Lectures et vidéos pour le brevet fédéral IA
 email: philippe@daucourt.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
