@@ -1,4 +1,9 @@
-<img width="30%" height="23%" alt="image" src="https://github.com/user-attachments/assets/c0c4f097-9643-4972-bc0d-78728423ebf7" />
+---
+layout: post
+title:  "IA, Comment ne pas perdre le nord?"
+tag: livre
+---
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/c0c4f097-9643-4972-bc0d-78728423ebf7" />
 
 https://www.epflpress.org/produit/1612/9782889157280/ia-comment-ne-pas-perdre-le-nord
 
@@ -10,7 +15,7 @@ Table des matières:
 * 4 Dans le labyrinthe des mots
 * 5 Des vrais faux
 * 6 Une vue claire sur les angles morts
-* **7 Mon travail, ton travail, plus de travail ?** 👈
+* 7 Mon travail, ton travail, plus de travail ?
 * 8 L’Aristote omniprésent
 * 9 L’accélérateur du savoir
 * 10 Positif à l’IA
