@@ -5,8 +5,6 @@ tag: livre
 ---
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/c0c4f097-9643-4972-bc0d-78728423ebf7" />
 
-[details]
-
 Table des matières:
 * Introduction
 * 1 Pourquoi tout s’accélère
@@ -26,4 +24,6 @@ Table des matières:
 * Glossaire
 * Remerciements
 
-[details]: https://jekyllrb.com/docs/home](https://www.epflpress.org/produit/1612/9782889157280/ia-comment-ne-pas-perdre-le-nord
+[Détails][details]
+
+[details]: https://www.epflpress.org/produit/1612/9782889157280/ia-comment-ne-pas-perdre-le-nord
